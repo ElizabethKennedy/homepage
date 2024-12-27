@@ -1,0 +1,56 @@
+/* Stylesheet for What's Your Sign? website */
+/* General indentation */
+
+.indent
+
+{
+    margin-left: 150pt;
+    margin-right: 150pt;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 10px;
+    border: 10px solid purple;
+}
+
+/* Solid border. */
+hr.solid
+{
+    margin-left: 200pt;
+    margin-right: 200pt;
+    border-top: 3px solid #C0C0C0;
+    border-radius: 5px;
+}
+
+h1
+{
+    margin-left: 200pt;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+
+}
+
+h2
+{
+    margin-left: 200pt;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+p
+{
+    margin-left: 200pt;
+    margin-right: 200pt;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+body
+{
+    color: silver;
+    background-color: blue;
+}
