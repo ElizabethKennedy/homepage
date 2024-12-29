@@ -23,6 +23,7 @@ hr.solid
 
 h1
 {
+    font-size: 5.9vw;
     margin-left: 200pt;
     padding-top: 20px;
     padding-bottom: 0px;
@@ -33,6 +34,7 @@ h1
 
 h2
 {
+    font-size: 3.0vh;
     margin-left: 200pt;
     padding-top: 10px;
     padding-bottom: 0px;
@@ -42,6 +44,7 @@ h2
 
 p
 {
+    font-size: 2vmin;
     margin-left: 200pt;
     margin-right: 200pt;
     padding-bottom: 0px;
