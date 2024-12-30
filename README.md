@@ -2,4 +2,3 @@
 <img width="1208" alt="sun sign preview homepage" src="https://github.com/user-attachments/assets/ea27c010-ab65-499e-94fa-8a3845714c57" />
 <img width="1212" alt="homepage rising updated" src="https://github.com/user-attachments/assets/53709989-7d7b-4548-8b78-66f4e23b0fa7" />
 <img width="1273" alt="homepage rising 2" src="https://github.com/user-attachments/assets/0395171e-5ea3-433d-a056-69ef7a48d895" />
-<img width="336" alt="Zodiac wheel" src="https://github.com/user-attachments/assets/662ff1cd-222e-4b15-a33a-1df1cab9a3dc" />
