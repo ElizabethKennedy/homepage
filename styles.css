@@ -10,6 +10,8 @@
     flex-wrap: wrap;
     font-size: 30px;
     text-align: center;
+    height: 100%;
+    width: 100%;
   }
 
   .flex-item-left {
@@ -114,7 +116,7 @@ body
             justify-content: space-evenly;
   }
 
-  .flex-jc-c {
+ /*.flex-jc-c {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -140,6 +142,7 @@ body
         -ms-flex-align: center;
             align-items: center;
   }
+            */
 
   .noscroll {
     overflow: hidden;
