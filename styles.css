@@ -19,7 +19,7 @@
   }
 
   .flex-item-right {
-    background-color: dodgerblue;
+    background-color: black;
     padding: 10px;
     flex: 50%;
   }
@@ -88,6 +88,14 @@ body
     color: black;
     background-color: dodgerblue;
 }
+
+.navbar
+{
+    color: black;
+}
+
+
+
 .flex {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -237,47 +245,8 @@ body
     display: inline-block;
   }
 
-  .header .planet__links.mobile-only .dot.mercury {
-    background: #419ebb;
-  }
-
-  .header .planet__links.mobile-only .dot.venus {
-    background: #eda249;
-  }
-
-  .header .planet__links.mobile-only .dot.earth {
-    background: #6d2ed5;
-  }
-
-  .header .planet__links.mobile-only .dot.mars {
-    background: #d14c32;
-  }
-
-  .header .planet__links.mobile-only .dot.jupiter {
-    background: #d83a34;
-  }
-
-  .header .planet__links.mobile-only .dot.saturn {
-    background: #cd5120;
-  }
-
-  .header .planet__links.mobile-only .dot.uranus {
-    background: #1ec1a2;
-  }
-
-  .header .planet__links.mobile-only .dot.neptune {
-    background: #2d68f0;
-  }
-
   .header .planet__links.hide-for-mobile {
     position: relative;
-    -ms-grid-columns: (1fr)[8];
-        grid-template-columns: repeat(8, 1fr);
-    -webkit-column-gap: 2.0625rem;
-            column-gap: 2.0625rem;
-    padding: 0 2rem;
-    padding-top: 2.0625rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
   }
 
   @media (min-width: 610px) and (max-width: 1023px) {
@@ -301,13 +270,14 @@ body
           grid-template-columns: 50% repeat(8, 1fr);
       padding-top: 1.375rem;
     }
+}
 
 
   .header .planet__links.hide-for-mobile .logo {
     margin: 0;
     padding: 0;
   }
-  
+
   @media (min-width: 610px) and (max-width: 1023px) {
     .header .planet__links.hide-for-mobile .logo {
       -ms-grid-column: 1;
